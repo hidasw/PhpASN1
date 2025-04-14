@@ -1,0 +1,14 @@
+{
+    "name": "hidasw/asn1",
+    "description": "PHP library to parse and create ASN.1 structures without dependencies",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "": "./"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
